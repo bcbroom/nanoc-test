@@ -1,4 +1,4 @@
-{:	data{I"/:ET{:default{	:	lastI"b<!DOCTYPE HTML>
+{:	data{I"/:ET{:default{	:	lastI"i<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -33,6 +33,7 @@
         <li><a href="irc://chat.freenode.net/#nanoc">IRC Channel</a></li>
         <li><a href="http://projects.stoneship.org/trac/nanoc/">Wiki</a></li>
       </ul>
+      
     </div>
   </body>
 </html>
@@ -161,7 +162,7 @@ a:hover {
   line-height: 20px;
 }
 ;T;	@;
-@I"/about/;T{;{	;I"Ì<!DOCTYPE HTML>
+@I"/about/;T{;{	;I"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -187,6 +188,9 @@ a:hover {
         <li><a href="irc://chat.freenode.net/#nanoc">IRC Channel</a></li>
         <li><a href="http://projects.stoneship.org/trac/nanoc/">Wiki</a></li>
       </ul>
+      
+      	<p>This page was written by Brian Broom.</p>
+      
     </div>
   </body>
 </html>
