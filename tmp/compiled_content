@@ -1,4 +1,4 @@
-{:	data{I"/:ET{:default{	:	lastI"<!DOCTYPE HTML>
+{:	data{I"/:ET{:default{	:	lastI"V<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -9,6 +9,8 @@
   <body>
     <div id="main">
       <h1>A Brand New nanoc Site</h1>
+
+<p>This is a brand new paragraph which I've just inserted into this file.</p>
 
 <p>You‚Äôve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
 
@@ -34,7 +36,9 @@
     </div>
   </body>
 </html>
-;T:rawI"£<h1>A Brand New nanoc Site</h1>
+;T:rawI"Ú<h1>A Brand New nanoc Site</h1>
+
+<p>This is a brand new paragraph which I've just inserted into this file.</p>
 
 <p>You‚Äôve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
 
@@ -43,7 +47,9 @@
   <li><p><strong>Change the layout</strong>, which is the ‚Äúdefault.html‚Äù file in the ‚Äúlayouts‚Äù directory, and create something unique (and hopefully less bland).</p></li>
 </ul>
 
-<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>;T:preI"£<h1>A Brand New nanoc Site</h1>
+<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>;T:preI"Ú<h1>A Brand New nanoc Site</h1>
+
+<p>This is a brand new paragraph which I've just inserted into this file.</p>
 
 <p>You‚Äôve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
 
